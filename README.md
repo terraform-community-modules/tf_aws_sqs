@@ -1,6 +1,12 @@
 sqs terraform module
 ===========
 
+# This module is deprecated and [terraform-aws-modules/terraform-aws-sqs module](https://github.com/terraform-aws-modules/terraform-aws-sqs) published on [the Terraform registry](https://registry.terraform.io/modules/terraform-aws-modules/sqs/aws) should be used instead.
+
+## This repository will not have active support any more.
+
+---
+
 A terraform module to provide Simple Queue Service (SQS) in AWS.
 
 Module Input Variables
